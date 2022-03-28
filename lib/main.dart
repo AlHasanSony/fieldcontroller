@@ -228,6 +228,7 @@ class MyApp extends StatelessWidget {
             direction: Axis.horizontal, // The direction the liquid moves (Axis.vertical = bottom to top, Axis.horizontal = left to right). Defaults to Axis.vertical.
             center: const Text("Loading..."),
           )
+          this is liquid progress indicator previously used but currently it's not being used
 
 
 
